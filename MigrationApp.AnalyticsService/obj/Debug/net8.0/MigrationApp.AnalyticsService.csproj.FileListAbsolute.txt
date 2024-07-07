@@ -1,0 +1,15 @@
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\bin\Debug\net8.0\MigrationApp.AnalyticsService.deps.json
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\bin\Debug\net8.0\MigrationApp.AnalyticsService.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\bin\Debug\net8.0\MigrationApp.AnalyticsService.pdb
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\bin\Debug\net8.0\MigrationApp.Common.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\bin\Debug\net8.0\MigrationApp.Common.pdb
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\obj\Debug\net8.0\MigrationApp.AnalyticsService.csproj.AssemblyReference.cache
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\obj\Debug\net8.0\MigrationApp.AnalyticsService.GeneratedMSBuildEditorConfig.editorconfig
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\obj\Debug\net8.0\MigrationApp.AnalyticsService.AssemblyInfoInputs.cache
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\obj\Debug\net8.0\MigrationApp.AnalyticsService.AssemblyInfo.cs
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\obj\Debug\net8.0\MigrationApp.AnalyticsService.csproj.CoreCompileInputs.cache
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\obj\Debug\net8.0\MigrationApp.AnalyticsService.csproj.CopyComplete
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\obj\Debug\net8.0\MigrationApp.AnalyticsService.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\obj\Debug\net8.0\refint\MigrationApp.AnalyticsService.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\obj\Debug\net8.0\MigrationApp.AnalyticsService.pdb
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.AnalyticsService\obj\Debug\net8.0\ref\MigrationApp.AnalyticsService.dll

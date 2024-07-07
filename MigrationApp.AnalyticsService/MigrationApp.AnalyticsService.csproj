@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\MigrationApp.Common\MigrationApp.Common.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="Models\Result_ParameterValueRelationEntity_Configuration.cs">
+        <DependentUpon>Result_ParameterValueRelationEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\RequestEntity_Configuration.cs">
+        <DependentUpon>RequestEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ResultEntity_Configuration.cs">
+        <DependentUpon>ResultEntity.cs</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
+</Project>

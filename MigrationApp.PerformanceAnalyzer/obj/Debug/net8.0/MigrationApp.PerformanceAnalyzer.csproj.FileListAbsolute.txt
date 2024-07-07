@@ -1,0 +1,15 @@
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\bin\Debug\net8.0\MigrationApp.PerformanceAnalyzer.deps.json
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\bin\Debug\net8.0\MigrationApp.PerformanceAnalyzer.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\bin\Debug\net8.0\MigrationApp.PerformanceAnalyzer.pdb
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\bin\Debug\net8.0\MigrationApp.Common.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\bin\Debug\net8.0\MigrationApp.Common.pdb
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\obj\Debug\net8.0\MigrationApp.PerformanceAnalyzer.csproj.AssemblyReference.cache
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\obj\Debug\net8.0\MigrationApp.PerformanceAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\obj\Debug\net8.0\MigrationApp.PerformanceAnalyzer.AssemblyInfoInputs.cache
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\obj\Debug\net8.0\MigrationApp.PerformanceAnalyzer.AssemblyInfo.cs
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\obj\Debug\net8.0\MigrationApp.PerformanceAnalyzer.csproj.CoreCompileInputs.cache
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\obj\Debug\net8.0\MigrationApp.PerformanceAnalyzer.csproj.CopyComplete
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\obj\Debug\net8.0\MigrationApp.PerformanceAnalyzer.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\obj\Debug\net8.0\refint\MigrationApp.PerformanceAnalyzer.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\obj\Debug\net8.0\MigrationApp.PerformanceAnalyzer.pdb
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.PerformanceAnalyzer\obj\Debug\net8.0\ref\MigrationApp.PerformanceAnalyzer.dll

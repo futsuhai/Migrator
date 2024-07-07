@@ -1,0 +1,12 @@
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.Common\bin\Debug\net8.0\MigrationApp.Common.deps.json
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.Common\bin\Debug\net8.0\MigrationApp.Common.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.Common\bin\Debug\net8.0\MigrationApp.Common.pdb
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.Common\obj\Debug\net8.0\MigrationApp.Common.csproj.AssemblyReference.cache
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.Common\obj\Debug\net8.0\MigrationApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.Common\obj\Debug\net8.0\MigrationApp.Common.AssemblyInfoInputs.cache
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.Common\obj\Debug\net8.0\MigrationApp.Common.AssemblyInfo.cs
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.Common\obj\Debug\net8.0\MigrationApp.Common.csproj.CoreCompileInputs.cache
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.Common\obj\Debug\net8.0\MigrationApp.Common.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.Common\obj\Debug\net8.0\refint\MigrationApp.Common.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.Common\obj\Debug\net8.0\MigrationApp.Common.pdb
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.Common\obj\Debug\net8.0\ref\MigrationApp.Common.dll

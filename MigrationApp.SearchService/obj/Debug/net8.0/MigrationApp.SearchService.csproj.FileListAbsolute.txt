@@ -1,0 +1,15 @@
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\bin\Debug\net8.0\MigrationApp.SearchService.deps.json
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\bin\Debug\net8.0\MigrationApp.SearchService.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\bin\Debug\net8.0\MigrationApp.SearchService.pdb
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\bin\Debug\net8.0\MigrationApp.Common.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\bin\Debug\net8.0\MigrationApp.Common.pdb
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\obj\Debug\net8.0\MigrationApp.SearchService.csproj.AssemblyReference.cache
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\obj\Debug\net8.0\MigrationApp.SearchService.GeneratedMSBuildEditorConfig.editorconfig
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\obj\Debug\net8.0\MigrationApp.SearchService.AssemblyInfoInputs.cache
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\obj\Debug\net8.0\MigrationApp.SearchService.AssemblyInfo.cs
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\obj\Debug\net8.0\MigrationApp.SearchService.csproj.CoreCompileInputs.cache
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\obj\Debug\net8.0\MigrationApp.SearchService.csproj.CopyComplete
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\obj\Debug\net8.0\MigrationApp.SearchService.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\obj\Debug\net8.0\refint\MigrationApp.SearchService.dll
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\obj\Debug\net8.0\MigrationApp.SearchService.pdb
+\\infotecs-nt\dfsroot$\Users\zakharov.ser\Desktop\MigrationApp\MigrationApp.SearchService\obj\Debug\net8.0\ref\MigrationApp.SearchService.dll

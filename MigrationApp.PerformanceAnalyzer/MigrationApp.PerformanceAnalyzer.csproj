@@ -1,0 +1,273 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Models\Migrated\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\MigrationApp.Common\MigrationApp.Common.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="Models\CityEntity_Configuration.cs">
+        <DependentUpon>CityEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\Configuration_ParameterValueRelation_Configuration.cs">
+        <DependentUpon>Configuration_ParameterValueRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\Configuration_ResultParameterRelation_Configuration.cs">
+        <DependentUpon>Configuration_ResultParameterRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ConfigurationAliasEntity_Configuration.cs">
+        <DependentUpon>ConfigurationAliasEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ConfigurationEntity_Configuration.cs">
+        <DependentUpon>ConfigurationEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\DashboardPresetEntity_Configuration.cs">
+        <DependentUpon>DashboardPresetEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\DashboardPresetProductRelation_Configuration.cs">
+        <DependentUpon>DashboardPresetProductRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\DecommissionedEquipmentEntity_Configuration.cs">
+        <DependentUpon>DecommissionedEquipmentEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\EquipmentActionEntityConfiguration.cs">
+        <DependentUpon>EquipmentActionEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\EquipmentEntityConfiguration.cs">
+        <DependentUpon>EquipmentEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\EquipmentExpertReserveActionEntity_Configuration.cs">
+        <DependentUpon>EquipmentExpertReserveActionEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\EquipmentHardwarePlatformRelationEntity_Configuration.cs">
+        <DependentUpon>EquipmentHardwarePlatformRelationEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\EquipmentObjectTestEnvironmentRelationEntity_Configuration.cs">
+        <DependentUpon>EquipmentObjectTestEnvironmentRelationEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\EquipmentRequestReserveActionEntity_Configuration.cs">
+        <DependentUpon>EquipmentRequestReserveActionEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\EquipmentTemporarilyUnavailableActionEntity_Configuration.cs">
+        <DependentUpon>EquipmentTemporarilyUnavailableActionEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\HardwarePlatformDefaultParameterValueRelation_Configuration.cs">
+        <DependentUpon>HardwarePlatformDefaultParameterValueRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\HardwarePlatformFileEntity_Configuration.cs">
+        <DependentUpon>HardwarePlatformFileEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\HardwarePlatformOperationSystemRelation_Configuration.cs">
+        <DependentUpon>HardwarePlatformOperationSystemRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\HardwarePlatformParameterValueRelation_Configuration.cs">
+        <DependentUpon>HardwarePlatformParameterValueRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\LocationEntity_Configuration.cs">
+        <DependentUpon>LocationEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\Methodology_ReportPartRelation_Configuration.cs">
+        <DependentUpon>Methodology_ReportPartRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyEntityConfiguration.cs">
+        <DependentUpon>MethodologyEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyFileParameterValueRelationEntity_Configuration.cs">
+        <DependentUpon>MethodologyFileParameterValueRelationEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyHardwarePlatformRelation_Configuration.cs">
+        <DependentUpon>MethodologyHardwarePlatformRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyLanguageRelation_Configuration.cs">
+        <DependentUpon>MethodologyLanguageRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyParameterProductVisibilityRelation_Configuration.cs">
+        <DependentUpon>MethodologyParameterProductVisibilityRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyParameterRelation_Configuration.cs">
+        <DependentUpon>MethodologyParameterRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyParameterValueRelationEntity_Configuration.cs">
+        <DependentUpon>MethodologyParameterValueRelationEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyParserRelation_Configuration.cs">
+        <DependentUpon>MethodologyParserRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyParsingItem_ParsedResultsValidatorRelation_Configuration.cs">
+        <DependentUpon>MethodologyParsingItem_ParsedResultsValidatorRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyParsingItem_ResultParameterRelation_Configuration.cs">
+        <DependentUpon>MethodologyParsingItem_ResultParameterRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyResultParameterRelation_Configuration.cs">
+        <DependentUpon>MethodologyResultParameterRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyScenario_RequestParameterValueRelation_Configuration.cs">
+        <DependentUpon>MethodologyScenario_RequestParameterValueRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyStand_MethodologyFileRelation_Configuration.cs">
+        <DependentUpon>MethodologyStand_MethodologyFileRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyStand_TestEnvironmentRelation_Configuration.cs">
+        <DependentUpon>MethodologyStand_TestEnvironmentRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyStandSchemeParameterValueRelation_Configuration.cs">
+        <DependentUpon>MethodologyStandSchemeParameterValueRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\MethodologyUserSettingsEntity_Configuration.cs">
+        <DependentUpon>MethodologyUserSettingsEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\OfficeEntity_Configuration.cs">
+        <DependentUpon>OfficeEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\OperationSystemDefaultParameterValueRelation_Configuariton.cs">
+        <DependentUpon>OperationSystemDefaultParameterValueRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\OperationSystemParameterValueRelation_Configuration.cs">
+        <DependentUpon>OperationSystemParameterValueRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ParameterEntityConfiguration.cs">
+        <DependentUpon>ParameterEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ParameterShadowedValueEntityConfiguration.cs">
+        <DependentUpon>ParameterShadowedValueEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ParameterValueEntityConfiguration.cs">
+        <DependentUpon>ParameterValueEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ProductBuildReportParameterRelation_Configuration.cs">
+        <DependentUpon>ProductBuildReportParameterRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ProductEntityConfiguration.cs">
+        <DependentUpon>ProductEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ProductFeatureSetRelationEntity_Configuration.cs">
+        <DependentUpon>ProductFeatureSetRelationEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ProductOvaDistributionRelation_Configuration.cs">
+        <DependentUpon>ProductOvaDistributionRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ProductVersion_Build_ResultHashEntityConfiguration.cs">
+        <DependentUpon>ProductVersion_Build_ResultHashEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ProductVersionDefaultParameterValueRelation_Configuration.cs">
+        <DependentUpon>ProductVersionDefaultParameterValueRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ProductVersionEntityConfiguration.cs">
+        <DependentUpon>ProductVersionEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ProductVersionMethodologyBundleRelation_Configuration.cs">
+        <DependentUpon>ProductVersionMethodologyBundleRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ProductVersionMethodologyRelation_Configuration.cs">
+        <DependentUpon>ProductVersionMethodologyRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ProductVersionOperationSystemRelation_Configuration.cs">
+        <DependentUpon>ProductVersionOperationSystemRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ProductVersionParameterValueRelation_Configuration.cs">
+        <DependentUpon>ProductVersionParameterValueRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ProductVersionTargetFileRelation_Configuration.cs">
+        <DependentUpon>ProductVersionTargetFileRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ProductVersionTargetSetEntityConfiguration.cs">
+        <DependentUpon>ProductVersionTargetSetEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ReportPartEntity_Configuration.cs">
+        <DependentUpon>ReportPartEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\RequestBundleStorageFileEntity_Configuration.cs">
+        <DependentUpon>RequestBundleStorageFileEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\RequestChangesHistoryEntityConfiguration.cs">
+        <DependentUpon>RequestChangesHistoryEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\RequestEntityConfiguration.cs">
+        <DependentUpon>RequestEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\RequestFileEntity_Configuration.cs">
+        <DependentUpon>RequestFileEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\RequestKeyWordRelation_Configuration.cs">
+        <DependentUpon>RequestKeyWordRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\RequestParameterValueRelation_Configuration.cs">
+        <DependentUpon>RequestParameterValueRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\RequestReportFileEntity_Configuration.cs">
+        <DependentUpon>RequestReportFileEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\RequestReviewEntityConfiguration.cs">
+        <DependentUpon>RequestReviewEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\RequestTestParameterValueRelation_Configuration.cs">
+        <DependentUpon>RequestTestParameterValueRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\RequestTestResultData_ParameterValueRelation_Configuration.cs">
+        <DependentUpon>RequestTestResultData_ParameterValueRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\RequestTestResultDataEntityConfiguration.cs">
+        <DependentUpon>RequestTestResultDataEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\SiesAnalyticsReportEntity_Configuration.cs">
+        <DependentUpon>SiesAnalyticsReportEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\StandSchemeTestObjectRelation_Configuration.cs">
+        <DependentUpon>StandSchemeTestObjectRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\TargetRowEntity_Configuration.cs">
+        <DependentUpon>TargetRowEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\TemplateTestParameterValueRelationEntity_Configuration.cs">
+        <DependentUpon>TemplateTestParameterValueRelationEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\TestEnvironmentObjectTestEnvironmentRelation_Configuration.cs">
+        <DependentUpon>TestEnvironmentObjectTestEnvironmentRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\TranslationEntity_Configuration.cs">
+        <DependentUpon>TranslationEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\UserEntity_Configuration.cs">
+        <DependentUpon>UserEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\UserFavoriteBuildRelation_Configuration.cs">
+        <DependentUpon>UserFavoriteBuildRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\UserFavoriteProductGroupRelation_Configuration.cs">
+        <DependentUpon>UserFavoriteProductGroupRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\UserFavoriteProductRelation_Configuration.cs">
+        <DependentUpon>UserFavoriteProductRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\UserFavoriteProductVersionRelation_Configuration.cs">
+        <DependentUpon>UserFavoriteProductVersionRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\UserProjectRelation_Configuration.cs">
+        <DependentUpon>UserProjectRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\VirtualPlatformEntity_Configuration.cs">
+        <DependentUpon>VirtualPlatformEntity.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\VirtualPlatformParameterValueRelation_Configuration.cs">
+        <DependentUpon>VirtualPlatformParameterValueRelation.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\LocationAccessRightEntity_Configuration.cs">
+        <DependentUpon>LocationAccessRightEntity.cs</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
+</Project>
